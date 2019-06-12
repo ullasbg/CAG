@@ -1,0 +1,13 @@
+
+"DEVICE_ID":"SFA01",
+"SERVER_ADDR":"ava.blugraph.services",
+"SERVER_PATH":"/rawdatamp.php",
+"GETNET_ADDR":"52.220.188.123",
+"GETNET_PATH":"/BluIEQ/sensorstatus.php",
+"PROGRAM_ID":"BG_Light.py"
+}
+
+
+
+
+
